@@ -1,0 +1,3 @@
+﻿  HelloTriangleApplication.cpp
+c:\users\spenc\documents\visual studio 2017\projects\triangletask\triangletask\hellotriangleapplication.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  TriangleTask.vcxproj -> C:\Users\spenc\Documents\Visual Studio 2017\Projects\TriangleTask\x64\Debug\TriangleTask.exe
